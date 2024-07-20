@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate software from Istanbul</h3>
+<h3 align="center">A passionate software engineer from Istanbul</h3>
 
 - 🔭 I’m currently working on **Game Development and Backend Development**
 
