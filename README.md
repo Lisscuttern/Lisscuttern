@@ -5,7 +5,7 @@
 
 - 🔭 [You can access my game portfolio via the link](https://drive.google.com/drive/folders/1iPT1jXpViD0zwaOvksAwoh4WUDqFg_CL?usp=sharing) **
 
-- 🔭 https://play.google.com/store/apps/dev?id=6336994638235990602 **
+- 🔭 [You can access my own google play store account via the link]https://play.google.com/store/apps/dev?id=6336994638235990602 **
 
 
 <h3 align="left">Languages and Tools:</h3>
